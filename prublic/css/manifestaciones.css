@@ -1,0 +1,232 @@
+#logo{
+    position: absolute;
+    top: 10px;
+    width: 50px;
+    border-radius: 20px;
+    left: 0px;
+}
+
+#logo2{
+    position: absolute;
+    top: 02px;
+    width: 100px;
+    border-radius: 20px;
+    left: 1210px;
+}
+
+body{
+    background-image: url('../img/fondo.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    position: absolute;
+    left: -100px;
+    top: -10px;
+    width: 100%;
+    font-family: fantasy;
+}
+
+a{
+    color: black;
+}
+
+button{
+    border-radius: 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
+
+input{
+    border-radius: 40px;
+    text-align: center;   
+}
+
+p{
+    font-size: 30px;
+    
+}
+
+#historia{
+    position: absolute;
+}
+
+#manifestaciones{
+    position: absolute;
+    left: 150px;
+}
+
+#artes{
+    position: absolute;
+    left: 550px;
+}
+
+#servicios{
+    position: absolute;
+    left: 1035px;
+}
+
+#Img1{
+    position: absolute;
+    top: 80px;
+    left: 50px;
+}
+
+#img1{
+    width: 1230px;
+    height: 400px;
+}
+
+#conteido1{
+    position: absolute;
+    top: 500px;
+    text-align: justify;
+    width: 80%;
+    left: 180px;
+}
+
+#conteido2{
+    position: absolute;
+    top: 1500px;
+    text-align: justify;
+    width: 80%;
+    left: 180px;
+}
+
+#Titulo1{
+    position: absolute;
+    left: 50px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#titulo3{
+    position: absolute;
+    left: 650px;
+    top: 1050px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#Gastronomia{
+    position: absolute;
+    top: 1120px;
+    left: 390px;
+}
+
+#gastronomia1{
+    width: 700px;
+}
+
+#texto1{
+    position: absolute;
+    top: 50px;
+    font-size: 22px;
+}
+
+#texto2{
+    position: absolute;
+    top: 50px;
+    font-size: 22px;
+}
+
+#img2{
+    width: 500px;
+    height: 310px;
+}
+
+#img3{
+    width: 550px;
+}
+
+#Img2{
+    position: absolute;
+    top: 690px;
+    left: 190px;
+}
+
+#Img3{
+    position: absolute;
+    top: 690px;
+    left: 720px;
+}
+
+#contenido3{
+    position: absolute;
+    top: 1700px;
+    left: 100px;
+}
+
+#img4{
+    width: 400px;
+    height: 200px;
+}
+
+#img5{
+    width: 400px;
+    height: 200px;
+}
+
+#img6{
+    width: 400px;
+    height: 200px;
+}
+
+#img7{
+    width: 400px;
+    height: 200px;
+}
+
+#img8{
+    width: 400px;
+    height: 200px;
+}
+
+#img9{
+    width: 400px;
+    height: 200px;
+}
+
+#Facebook{
+    width: 100px;
+}
+
+#Instagram{
+    width: 100px;
+}
+
+#contactos{
+    position: absolute;
+    top: 2130px;
+    width:1349px;
+    left: 0px;
+    height: 104px;
+    background-color: black;
+    color: white;
+}
+
+#con{
+    position: absolute;
+}
+
+#fas{
+    position: absolute;
+    left: 170px;
+}
+
+#ins{
+    position: absolute;
+    left: 300px;
+}
+
+#tiktok{
+    position: absolute;
+    left: 430px;
+    text-align: center;
+}

@@ -1,0 +1,254 @@
+#logo{
+    position: absolute;
+    top: 10px;
+    width: 50px;
+    border-radius: 20px;
+    left: 0px;
+}
+
+#logo2{
+    position: absolute;
+    top: 02px;
+    width: 100px;
+    border-radius: 20px;
+    left: 1210px;
+}
+
+body{
+    background-image: url('../img/fondo.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    position: absolute;
+    left: -100px;
+    top: -10px;
+    width: 100%;
+    font-family: fantasy;
+}
+
+a{
+    color: black;
+}
+
+button{
+    border-radius: 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
+
+input{
+    border-radius: 40px;
+    text-align: center;   
+}
+
+p{
+    font-size: 30px;
+    
+}
+
+#historia{
+    position: absolute;
+}
+
+#manifestaciones{
+    position: absolute;
+    left: 150px;
+}
+
+#artes{
+    position: absolute;
+    left: 550px;
+}
+
+#servicios{
+    position: absolute;
+    left: 1035px;
+}
+
+#titulo{
+    position: absolute;
+    top: 1760px;
+    left: 460px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#mapa{
+    position: absolute;
+    top: 1850px;
+    left: 330px;
+}
+
+#titulo1{
+    position: absolute;
+    top: 90px;
+    left: 370px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#Img1{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+
+#img1{
+    width: 1250px;
+    height: 540px;
+}
+
+#img2{
+    width: 400px;
+    height: 200px;
+}
+
+#img3{
+    width: 400px;
+    height: 200px;
+}
+
+#img4{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 210px;
+    left: 0px;
+}
+
+#img5{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 210px;
+    left: 405px;
+}
+
+#img6{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: -3px;
+}
+
+#img7{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 205px;
+    left: -3px;
+
+}
+
+#img8{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+}
+
+#img9{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 205px;
+    left: 400px;
+}
+
+#contenido2{
+    position: absolute;
+    top: 750px;
+    left: 50px;
+}
+
+#contenido3{
+    position: absolute;
+    top: 700px;
+    left: 870px;
+    width: 33%;
+}
+
+#text3{
+    font-size: 22px;
+    text-align: justify;
+}
+
+#ser{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+#contenido4{
+    position: absolute;
+    top: 1200px;
+    left: 520px;
+}
+
+#Img3{
+    position: absolute;
+    top: 70px;
+}
+
+#titulo2{
+    font-size: 30px;
+    position: absolute;
+    left: 0px;
+    width: 660px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#text4{
+    position: absolute;
+    left: -470px;
+    font-size: 22px;
+    text-align: justify;
+    width: 400px;
+    top: 50px;
+}
+
+#Facebook{
+    width: 100px;
+}
+
+#Instagram{
+    width: 100px;
+}
+
+#contactos{
+    position: absolute;
+    top: 2350px;
+    width:1349px;
+    left: 0px;
+    height: 104px;
+    background-color: black;
+    color: white;
+}
+
+#con{
+    position: absolute;
+}
+
+#fas{
+    position: absolute;
+    left: 170px;
+}
+
+#ins{
+    position: absolute;
+    left: 300px;
+}
+
+#tiktok{
+    position: absolute;
+    left: 430px;
+    text-align: center;
+}
